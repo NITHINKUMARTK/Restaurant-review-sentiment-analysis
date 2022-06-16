@@ -2,4 +2,4 @@
 
 This project includes building model for restaurant review sentiment analysis 
 
-webapp link: reviewsrestaurant.herokuapp.com
+webapp link:http://reviewsrestaurant.herokuapp.com/
